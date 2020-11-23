@@ -1,3 +1,9 @@
 # C++学习之路
 
-欢迎阅读我的博客，[xixixiyu-scut.github.io]{xixixiyu-scut.github.io}
+我的个人博客：[https://xixixiyu-scut.github.io/](<https://xixixiyu-scut.github.io/)
+
+主要更新内容如下：
+- C++与学习笔记
+- leetcode刷题笔记
+- 读书笔记
+- 项目
